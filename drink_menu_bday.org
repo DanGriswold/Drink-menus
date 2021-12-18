@@ -1,0 +1,58 @@
+#+Title: Drinks Menu
+#+options: author:nil; date:nil;
+#+SETUPFILE: bigblow_inline.theme
+
+# \setmainfont{Lato
+
+* Wine
+
+*** Chardonnay
+
+*** Pinot Noir
+
+*** Zinfandel
+
+*** Cabernet Sauvignon
+
+* Beer
+
+*** Founder's All Day IPA
+
+*** Smithwick's Red Ale
+
+*** Bell's Two Hearted IPA
+
+*** Bell's Light Ale
+
+* Cocktails
+
+*** Whiskey Sour
+- bourbon | lemon juice | simple syrup | foam
+ 
+*** Boulevardier
+- bourbon | Campari | sweet vermouth
+
+*** Manhattan
+- bourbon | sweet vermouth | bitters
+
+*** Old Fashioned
+- bourbon | sugar | bitters
+
+*** Negroni
+- gin | Campari | sweet vermouth
+ 
+*** Aviation
+- gin | maraschino liqueur | crème de violette | lemon juice
+
+*** Gin-Campari Sour
+- gin | Campari | lemon juice | simple syrup | orange bitters | foam
+ 
+*** Dry Martini
+- gin | dry vermouth | orange bitters
+ 
+*** Margarita
+- tequila | Cointreau | lime juice
+
+*** Maple Margarita
+- tequila | Cointreau | maple syrup | lime juice
+
